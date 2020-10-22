@@ -40,7 +40,7 @@ var prob = 0.995;
 function preload() {
     this.load.image('sky', 'assets/fondo.gif');
     this.load.image('ground', 'assets/platform.png');
-    this.load.image('star', 'assets/apple.png');
+    this.load.image('star', 'assets/Apple.png');
     this.load.image('Off', 'assets/Off.png');
     this.load.spritesheet('dude', 'assets/ninja.png', { frameWidth: 32, frameHeight: 26 });
 
